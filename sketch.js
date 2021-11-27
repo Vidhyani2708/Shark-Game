@@ -112,6 +112,6 @@ function generateShark(){
     shark.addImage(sharkImg)
     shark.scale=0.5
     sharkGroup.add(shark)
-    shark.lifetime= 300
+    shark.lifetime= 600
   }
 }
